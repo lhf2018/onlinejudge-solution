@@ -3,15 +3,15 @@
 * 本人尝试做多个网站题目并上传个人解法
 
 ### HackerRank
-
+----
 分类 | 名称 |  难度  
 -|-|-
 Implementation | Climbing the Leaderboard | Medium |
 Implementation | Extra Long Factorials | Medium |
 String | Super Reduced String | Easy |
 
-### HackerRank
-
+### TopCoder
+----
 名称 |  难度  
 -|-
 Aaagmnrs | Easy
