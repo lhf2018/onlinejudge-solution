@@ -9,3 +9,9 @@
 Implementation | Climbing the Leaderboard | Medium |
 Implementation | Extra Long Factorials | Medium |
 String | Super Reduced String | Easy |
+
+### HackerRank
+
+名称 |  难度  
+-|-
+Aaagmnrs | Easy
