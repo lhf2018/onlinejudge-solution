@@ -5,20 +5,20 @@
 
 ### HackerRank
 ----
-分类 | 名称 |  难度  
+分类 | 名称 |  难度  | 实现语言 |
 -|-|-
-Implementation | Climbing the Leaderboard | Medium |
-Implementation | Extra Long Factorials | Medium |
-String | Super Reduced String | Easy |
+Implementation | Climbing the Leaderboard | Medium | Java |
+Implementation | Extra Long Factorials | Medium | Java |
+String | Super Reduced String | Easy | Java |
 
 ### CodingInterviews 剑指offer
 ----
-分类 | 名称 |  难度  
+分类 | 名称 |  难度  | 实现语言 |
 -|-|-
-面试题64 | 求1+2+…+n | Medium |
+面试题64 | 求1+2+…+n | Medium | Java |
 
 ### TopCoder
 ----
-名称 |  难度  
+名称 |  难度  | 实现语言 |
 -|-
-Aaagmnrs | Easy
+Aaagmnrs | Easy | Java |
