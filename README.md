@@ -10,6 +10,12 @@ Implementation | Climbing the Leaderboard | Medium |
 Implementation | Extra Long Factorials | Medium |
 String | Super Reduced String | Easy |
 
+### CodingInterviews 剑指offer
+----
+分类 | 名称 |  难度  
+-|-|-
+面试题64 | 求1+2+…+n | Medium |
+
 ### TopCoder
 ----
 名称 |  难度  
