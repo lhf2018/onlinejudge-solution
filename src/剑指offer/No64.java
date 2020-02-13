@@ -1,4 +1,4 @@
-package codingInterviews;
+package 剑指offer;
 
 /**
  * 题目：求1+2+…+n
