@@ -1,5 +1,5 @@
 # 在线编程网站题解
-* HackerRank、剑指offer、TopCoder、Codility题解（持续更新）
+* HackerRank、剑指offer、程序员面试金典、TopCoder、Codility题解（持续更新）
 * LeetCode题解在[这里](https://github.com/lhf2018/LeetcodeSolution)
 * 本人尝试做多个网站题目并上传个人解法
 
