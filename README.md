@@ -15,6 +15,7 @@ String | Super Reduced String | Easy | Java |
 ----
 题号 | 名称 |  难度  | 实现语言 |
 -|-|-|-|
+面试题03 | 数组中重复的数字 | Easy | Java |
 面试题05 | 替换空格 | Easy | Java |
 面试题06 | 从尾到头打印链表 | Easy | Java |
 面试题09 | 用两个栈实现队列 | Easy | Java |
