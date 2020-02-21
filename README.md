@@ -18,6 +18,7 @@ String | Super Reduced String | Easy | Java |
 面试题03 | 数组中重复的数字 | Easy | Java |
 面试题05 | 替换空格 | Easy | Java |
 面试题06 | 从尾到头打印链表 | Easy | Java |
+面试题07 | 重建二叉树 | Medium | Java |
 面试题09 | 用两个栈实现队列 | Easy | Java |
 面试题10 - I | 斐波那契数列 | Easy | Java |
 面试题15 | 二进制中1的个数 | Easy | Java |
