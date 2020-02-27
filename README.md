@@ -40,7 +40,8 @@ String | Super Reduced String | Easy | Java |
 ----
 题号 | 名称 |  难度  | 实现语言 |
 -|-|-|-|
-面试题 16.5 | 阶乘尾数 | Easy | Java |
+面试题 16.01 | 交换数字 | Medium | Java |
+面试题 16.05 | 阶乘尾数 | Easy | Java |
 
 ### TopCoder
 ----
