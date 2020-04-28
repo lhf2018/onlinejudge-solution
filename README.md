@@ -32,6 +32,7 @@ String | Super Reduced String | Easy | Java |
 面试题47 | 礼物的最大价值 | Medium | Java |
 面试题54 | 二叉搜索树的第k大节点 | Easy | Java |
 面试题55 - I | 二叉树的深度 | Easy | Java |
+面试题56 - I | 数组中数字出现的次数 | Medium | Java |
 面试题56 - II | 数组中数字出现的次数 II | Medium | Java |
 面试题57 - II | 和为s的连续正数序列 | Easy | Java |
 面试题58 - II | 左旋转字符串 | Easy | Java |
@@ -42,6 +43,8 @@ String | Super Reduced String | Easy | Java |
 ----
 题号 | 名称 |  难度  | 实现语言 |
 -|-|-|-|
+面试题 01.06 | 字符串压缩 | Easy | Java |
+面试题 03.05 | 栈排序 | Medium | Java |
 面试题 16.01 | 交换数字 | Medium | Java |
 面试题 16.05 | 阶乘尾数 | Easy | Java |
 面试题 17.18 | 最短超串 | Medium | Java |
