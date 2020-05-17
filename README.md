@@ -16,6 +16,7 @@ String | Super Reduced String | Easy | Java |
 题号 | 名称 |  难度  | 实现语言 |
 -|-|-|-|
 面试题03 | 数组中重复的数字 | Easy | Java |
+面试题04 | 二维数组中的查找 | Easy | Java |
 面试题05 | 替换空格 | Easy | Java |
 面试题06 | 从尾到头打印链表 | Easy | Java |
 面试题07 | 重建二叉树 | Medium | Java |
@@ -36,6 +37,7 @@ String | Super Reduced String | Easy | Java |
 面试题56 - II | 数组中数字出现的次数 II | Medium | Java |
 面试题57 - II | 和为s的连续正数序列 | Easy | Java |
 面试题58 - II | 左旋转字符串 | Easy | Java |
+面试题59 - I | 滑动窗口的最大值 | Easy | Java |
 面试题59 - II | 队列的最大值 | Medium | Java |
 面试题64 | 求1+2+…+n | Medium | Java |
 
