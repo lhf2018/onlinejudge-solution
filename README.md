@@ -22,6 +22,7 @@ String | Super Reduced String | Easy | Java |
 面试题07 | 重建二叉树 | Medium | Java |
 面试题09 | 用两个栈实现队列 | Easy | Java |
 面试题10 - I | 斐波那契数列 | Easy | Java |
+面试题10 - II | 青蛙跳台阶问题 | Easy | Java |
 面试题15 | 二进制中1的个数 | Easy | Java |
 面试题17 | 打印从1到最大的n位数 | Easy | Java |
 面试题22 | 链表中倒数第k个节点 | Easy | Java |
