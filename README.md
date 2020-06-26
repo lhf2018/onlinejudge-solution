@@ -23,8 +23,10 @@ String | Super Reduced String | Easy | Java |
 面试题09 | 用两个栈实现队列 | Easy | Java |
 面试题10 - I | 斐波那契数列 | Easy | Java |
 面试题10 - II | 青蛙跳台阶问题 | Easy | Java |
+面试题11 | 旋转数组的最小数字 | Easy | Java |
 面试题15 | 二进制中1的个数 | Easy | Java |
 面试题17 | 打印从1到最大的n位数 | Easy | Java |
+面试题18 | 删除链表的节点 | Easy | Java |
 面试题22 | 链表中倒数第k个节点 | Easy | Java |
 面试题24 | 反转链表 | Easy | Java |
 面试题25 | 合并两个排序的链表 | Easy | Java |
@@ -47,6 +49,7 @@ String | Super Reduced String | Easy | Java |
 题号 | 名称 |  难度  | 实现语言 |
 -|-|-|-|
 面试题 01.06 | 字符串压缩 | Easy | Java |
+面试题 02.01 | 移除重复节点 | Easy | Java |
 面试题 03.05 | 栈排序 | Medium | Java |
 面试题 16.01 | 交换数字 | Medium | Java |
 面试题 16.05 | 阶乘尾数 | Easy | Java |
