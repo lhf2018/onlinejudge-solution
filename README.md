@@ -43,6 +43,8 @@ String | Super Reduced String | Easy | Java |
 面试题59 - I | 滑动窗口的最大值 | Easy | Java |
 面试题59 - II | 队列的最大值 | Medium | Java |
 面试题64 | 求1+2+…+n | Medium | Java |
+面试题68 - I | 二叉搜索树的最近公共祖先 | Easy | Java |
+面试题68 - II | 二叉树的最近公共祖先 | Easy | Java |
 
 ### 程序员面试金典
 ----
