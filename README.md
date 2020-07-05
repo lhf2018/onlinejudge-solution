@@ -32,12 +32,14 @@ String | Super Reduced String | Easy | Java |
 面试题24 | 反转链表 | Easy | Java |
 面试题25 | 合并两个排序的链表 | Easy | Java |
 面试题27 | 二叉树的镜像 | Easy | Java |
+面试题31 | 栈的压入、弹出序列 | Medium | Java |
 面试题32 - I |  从上到下打印二叉树 | Medium | Java |
 面试题32 - II | 从上到下打印二叉树 II | Easy | Java |
 面试题32 - III | 从上到下打印二叉树 III | Medium | Java |
 面试题35 | 复杂链表的复制 | Medium | Java |
 面试题36 | 二叉搜索树与双向链表 | Medium | Java |
 面试题39 | 数组中出现次数超过一半的数字 | Easy | Java |
+面试题40 | 最小的k个数 | Easy | Java |
 面试题47 | 礼物的最大价值 | Medium | Java |
 面试题49 | 丑数 | Medium | Java |
 面试题50 | 第一个只出现一次的字符 | Easy | Java |
@@ -54,6 +56,7 @@ String | Super Reduced String | Easy | Java |
 面试题62 | 队列的最大值 | Medium | Java |
 面试题63 | 股票的最大利润 | Medium | Java |
 面试题64 | 求1+2+…+n | Medium | Java |
+面试题66 | 构建乘积数组 | Easy | Java |
 面试题68 - I | 二叉搜索树的最近公共祖先 | Easy | Java |
 面试题68 - II | 二叉树的最近公共祖先 | Easy | Java |
 
