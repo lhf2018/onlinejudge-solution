@@ -1,5 +1,5 @@
 # 在线编程网站题解
-* HackerRank、剑指offer、程序员面试金典、TopCoder、Codility题解（持续更新）
+* HackerRank、剑指offer、程序员面试金典、TopCoder题解（持续更新）
 * LeetCode题解在[这里](https://github.com/lhf2018/LeetcodeSolution)
 * 本人尝试做多个网站题目并上传个人解法
 
@@ -27,15 +27,21 @@ String | Super Reduced String | Easy | Java |
 面试题15 | 二进制中1的个数 | Easy | Java |
 面试题17 | 打印从1到最大的n位数 | Easy | Java |
 面试题18 | 删除链表的节点 | Easy | Java |
+面试题21 | 调整数组顺序使奇数位于偶数前面 | Easy | Java |
 面试题22 | 链表中倒数第k个节点 | Easy | Java |
 面试题24 | 反转链表 | Easy | Java |
 面试题25 | 合并两个排序的链表 | Easy | Java |
 面试题27 | 二叉树的镜像 | Easy | Java |
 面试题32 - I |  从上到下打印二叉树 | Medium | Java |
 面试题32 - II | 从上到下打印二叉树 II | Easy | Java |
+面试题32 - III | 从上到下打印二叉树 III | Medium | Java |
 面试题35 | 复杂链表的复制 | Medium | Java |
+面试题36 | 二叉搜索树与双向链表 | Medium | Java |
 面试题39 | 数组中出现次数超过一半的数字 | Easy | Java |
 面试题47 | 礼物的最大价值 | Medium | Java |
+面试题49 | 丑数 | Medium | Java |
+面试题50 | 第一个只出现一次的字符 | Easy | Java |
+面试题52 | 两个链表的第一个公共节点 | Easy | Java |
 面试题54 | 二叉搜索树的第k大节点 | Easy | Java |
 面试题55 - I | 二叉树的深度 | Easy | Java |
 面试题56 - I | 数组中数字出现的次数 | Medium | Java |
@@ -45,6 +51,8 @@ String | Super Reduced String | Easy | Java |
 面试题58 - II | 左旋转字符串 | Easy | Java |
 面试题59 - I | 滑动窗口的最大值 | Easy | Java |
 面试题59 - II | 队列的最大值 | Medium | Java |
+面试题62 | 队列的最大值 | Medium | Java |
+面试题63 | 股票的最大利润 | Medium | Java |
 面试题64 | 求1+2+…+n | Medium | Java |
 面试题68 - I | 二叉搜索树的最近公共祖先 | Easy | Java |
 面试题68 - II | 二叉树的最近公共祖先 | Easy | Java |
