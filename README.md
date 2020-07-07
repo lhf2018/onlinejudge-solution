@@ -24,6 +24,7 @@ String | Super Reduced String | Easy | Java |
 面试题10 - I | 斐波那契数列 | Easy | Java |
 面试题10 - II | 青蛙跳台阶问题 | Easy | Java |
 面试题11 | 旋转数组的最小数字 | Easy | Java |
+面试题14I | 剪绳子 | Medium | Java |
 面试题15 | 二进制中1的个数 | Easy | Java |
 面试题17 | 打印从1到最大的n位数 | Easy | Java |
 面试题18 | 删除链表的节点 | Easy | Java |
@@ -43,6 +44,9 @@ String | Super Reduced String | Easy | Java |
 面试题36 | 二叉搜索树与双向链表 | Medium | Java |
 面试题39 | 数组中出现次数超过一半的数字 | Easy | Java |
 面试题40 | 最小的k个数 | Easy | Java |
+面试题41 | 数据流中的中位数 | Hard | Java |
+面试题45 | 把数组排成最小的数 | Easy | Java |
+面试题46 | 把数字翻译成字符串 | Medium | Java |
 面试题47 | 礼物的最大价值 | Medium | Java |
 面试题49 | 丑数 | Medium | Java |
 面试题50 | 第一个只出现一次的字符 | Easy | Java |
