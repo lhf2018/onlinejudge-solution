@@ -42,6 +42,8 @@ String | Super Reduced String | Easy | Java |
 面试题34 | 二叉树中和为某一值的路径 | Medium | Java |
 面试题35 | 复杂链表的复制 | Medium | Java |
 面试题36 | 二叉搜索树与双向链表 | Medium | Java |
+面试题37 | 序列化二叉树 | Hard | Java |
+面试题38 | 字符串的排列 | Medium | Java |
 面试题39 | 数组中出现次数超过一半的数字 | Easy | Java |
 面试题40 | 最小的k个数 | Easy | Java |
 面试题41 | 数据流中的中位数 | Hard | Java |
@@ -51,6 +53,7 @@ String | Super Reduced String | Easy | Java |
 面试题49 | 丑数 | Medium | Java |
 面试题50 | 第一个只出现一次的字符 | Easy | Java |
 面试题52 | 两个链表的第一个公共节点 | Easy | Java |
+面试题53 - I | 在排序数组中查找数字 I | Easy | Java |
 面试题54 | 二叉搜索树的第k大节点 | Easy | Java |
 面试题55 - I | 二叉树的深度 | Easy | Java |
 面试题55 - II | 二叉树的深度 | Easy | Java |
@@ -61,6 +64,7 @@ String | Super Reduced String | Easy | Java |
 面试题58 - II | 左旋转字符串 | Easy | Java |
 面试题59 - I | 滑动窗口的最大值 | Easy | Java |
 面试题59 - II | 队列的最大值 | Medium | Java |
+面试题60 | n个骰子的点数 | Easy | Java |
 面试题62 | 队列的最大值 | Medium | Java |
 面试题63 | 股票的最大利润 | Medium | Java |
 面试题64 | 求1+2+…+n | Medium | Java |
