@@ -25,6 +25,7 @@ String | Super Reduced String | Easy | Java |
 面试题10 - II | 青蛙跳台阶问题 | Easy | Java |
 面试题11 | 旋转数组的最小数字 | Easy | Java |
 面试题14I | 剪绳子 | Medium | Java |
+面试题13 | 机器人的运动范围 | Medium | Java |
 面试题15 | 二进制中1的个数 | Easy | Java |
 面试题17 | 打印从1到最大的n位数 | Easy | Java |
 面试题18 | 删除链表的节点 | Easy | Java |
@@ -32,6 +33,7 @@ String | Super Reduced String | Easy | Java |
 面试题22 | 链表中倒数第k个节点 | Easy | Java |
 面试题24 | 反转链表 | Easy | Java |
 面试题25 | 合并两个排序的链表 | Easy | Java |
+面试题26 | 树的子结构 | Medium | Java |
 面试题27 | 二叉树的镜像 | Easy | Java |
 面试题28 | 对称的二叉树 | Easy | Java |
 面试题30 | 包含min函数的栈 | Easy | Java |
@@ -39,6 +41,7 @@ String | Super Reduced String | Easy | Java |
 面试题32 - I |  从上到下打印二叉树 | Medium | Java |
 面试题32 - II | 从上到下打印二叉树 II | Easy | Java |
 面试题32 - III | 从上到下打印二叉树 III | Medium | Java |
+面试题33 | 二叉搜索树的后序遍历序列 | Medium | Java |
 面试题34 | 二叉树中和为某一值的路径 | Medium | Java |
 面试题35 | 复杂链表的复制 | Medium | Java |
 面试题36 | 二叉搜索树与双向链表 | Medium | Java |
@@ -54,6 +57,7 @@ String | Super Reduced String | Easy | Java |
 面试题50 | 第一个只出现一次的字符 | Easy | Java |
 面试题52 | 两个链表的第一个公共节点 | Easy | Java |
 面试题53 - I | 在排序数组中查找数字 I | Easy | Java |
+面试题53 - II | 0～n-1中缺失的数字 | Easy | Java |
 面试题54 | 二叉搜索树的第k大节点 | Easy | Java |
 面试题55 - I | 二叉树的深度 | Easy | Java |
 面试题55 - II | 二叉树的深度 | Easy | Java |
