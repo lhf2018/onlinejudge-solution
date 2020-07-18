@@ -27,6 +27,7 @@ String | Super Reduced String | Easy | Java |
 面试题14I | 剪绳子 | Medium | Java |
 面试题13 | 机器人的运动范围 | Medium | Java |
 面试题15 | 二进制中1的个数 | Easy | Java |
+面试题16 | 数值的整数次方 | Medium | Java |
 面试题17 | 打印从1到最大的n位数 | Easy | Java |
 面试题18 | 删除链表的节点 | Easy | Java |
 面试题21 | 调整数组顺序使奇数位于偶数前面 | Easy | Java |
@@ -50,9 +51,12 @@ String | Super Reduced String | Easy | Java |
 面试题39 | 数组中出现次数超过一半的数字 | Easy | Java |
 面试题40 | 最小的k个数 | Easy | Java |
 面试题41 | 数据流中的中位数 | Hard | Java |
+面试题43 | 1～n整数中1出现的次数 | Medium | Java |
+面试题44 | 数字序列中某一位的数字 | Medium | Java |
 面试题45 | 把数组排成最小的数 | Easy | Java |
 面试题46 | 把数字翻译成字符串 | Medium | Java |
 面试题47 | 礼物的最大价值 | Medium | Java |
+面试题48 | 最长不含重复字符的子字符串 | Medium | Java |
 面试题49 | 丑数 | Medium | Java |
 面试题50 | 第一个只出现一次的字符 | Easy | Java |
 面试题52 | 两个链表的第一个公共节点 | Easy | Java |
