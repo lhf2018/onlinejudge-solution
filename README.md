@@ -37,6 +37,7 @@ String | Super Reduced String | Easy | Java |
 面试题26 | 树的子结构 | Medium | Java |
 面试题27 | 二叉树的镜像 | Easy | Java |
 面试题28 | 对称的二叉树 | Easy | Java |
+面试题29 | 顺时针打印矩阵 | Easy | Java |
 面试题30 | 包含min函数的栈 | Easy | Java |
 面试题31 | 栈的压入、弹出序列 | Medium | Java |
 面试题32 - I |  从上到下打印二叉树 | Medium | Java |
