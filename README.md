@@ -24,7 +24,8 @@ String | Super Reduced String | Easy | Java |
 面试题10 - I | 斐波那契数列 | Easy | Java |
 面试题10 - II | 青蛙跳台阶问题 | Easy | Java |
 面试题11 | 旋转数组的最小数字 | Easy | Java |
-面试题14I | 剪绳子 | Medium | Java |
+面试题14 - I | 剪绳子 | Medium | Java |
+面试题14 - II | 剪绳子 II | Medium | Java |
 面试题13 | 机器人的运动范围 | Medium | Java |
 面试题15 | 二进制中1的个数 | Easy | Java |
 面试题16 | 数值的整数次方 | Medium | Java |
@@ -74,6 +75,7 @@ String | Super Reduced String | Easy | Java |
 面试题59 - I | 滑动窗口的最大值 | Easy | Java |
 面试题59 - II | 队列的最大值 | Medium | Java |
 面试题60 | n个骰子的点数 | Easy | Java |
+面试题61 | 扑克牌中的顺子 | Easy | Java |
 面试题62 | 队列的最大值 | Medium | Java |
 面试题63 | 股票的最大利润 | Medium | Java |
 面试题64 | 求1+2+…+n | Medium | Java |
