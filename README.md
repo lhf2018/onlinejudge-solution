@@ -24,6 +24,7 @@ String | Super Reduced String | Easy | Java |
 面试题10 - I | 斐波那契数列 | Easy | Java |
 面试题10 - II | 青蛙跳台阶问题 | Easy | Java |
 面试题11 | 旋转数组的最小数字 | Easy | Java |
+面试题12 | 矩阵中的路径 | Medium | Java |
 面试题14 - I | 剪绳子 | Medium | Java |
 面试题14 - II | 剪绳子 II | Medium | Java |
 面试题13 | 机器人的运动范围 | Medium | Java |
@@ -81,6 +82,7 @@ String | Super Reduced String | Easy | Java |
 面试题64 | 求1+2+…+n | Medium | Java |
 面试题65 | 不用加减乘除做加法 | Easy | Java |
 面试题66 | 构建乘积数组 | Easy | Java |
+面试题67 | 把字符串转换成整数 | Medium | Java |
 面试题68 - I | 二叉搜索树的最近公共祖先 | Easy | Java |
 面试题68 - II | 二叉树的最近公共祖先 | Easy | Java |
 
