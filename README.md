@@ -93,6 +93,7 @@ String | Super Reduced String | Easy | Java |
 面试题 01.06 | 字符串压缩 | Easy | Java |
 面试题 02.01 | 移除重复节点 | Easy | Java |
 面试题 03.05 | 栈排序 | Medium | Java |
+面试题 08.04 | 幂集 | Medium | Java |
 面试题 16.01 | 交换数字 | Medium | Java |
 面试题 16.05 | 阶乘尾数 | Easy | Java |
 面试题 17.18 | 最短超串 | Medium | Java |
